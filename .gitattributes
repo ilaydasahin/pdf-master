@@ -1,0 +1,7 @@
+# Force GitHub Linguist to vendor JS, HTML, CSS, and JSON files so C# / TypeScript are detected as primary
+*.js linguist-vendored=true
+*.json linguist-vendored=true
+*.html linguist-vendored=true
+*.css linguist-vendored=true
+pdf-tools-client/**/*.js linguist-vendored=true
+pdf-tools-client/**/*.json linguist-vendored=true

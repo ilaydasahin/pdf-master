@@ -1,0 +1,273 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "PDF Master Professional Tools" [ref=e6] [cursor=pointer]:
+        - /url: /tr
+        - img [ref=e8]
+        - generic [ref=e11]:
+          - generic [ref=e12]: PDF Master
+          - generic [ref=e13]: Professional Tools
+      - button "Open main menu" [ref=e16]:
+        - generic [ref=e17]: Open main menu
+        - img [ref=e18]
+  - main [ref=e19]:
+    - main [ref=e20]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e28]:
+            - text: Hero.announcement
+            - link "Try Workflows" [ref=e29] [cursor=pointer]:
+              - /url: /tr/workflows
+              - text: Try Workflows →
+          - heading "Hero.title" [level=1] [ref=e31]
+          - paragraph [ref=e32]: Hero.description
+          - generic [ref=e33]:
+            - link "Hero.getStarted" [ref=e34] [cursor=pointer]:
+              - /url: "#tools"
+            - link "Daha Fazla Bilgi" [ref=e35] [cursor=pointer]:
+              - /url: /tr/about
+              - text: Daha Fazla Bilgi →
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - img [ref=e38]
+            - generic [ref=e41]: Secure & Private
+          - generic [ref=e42]:
+            - img [ref=e43]
+            - generic [ref=e45]: Lightning Fast
+          - generic [ref=e46]:
+            - img [ref=e47]
+            - generic [ref=e50]: High Quality
+      - generic [ref=e53]:
+        - link "Tools.merge-pdf.title Tools.merge-pdf.desc" [ref=e55] [cursor=pointer]:
+          - /url: /tr/merge
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - img [ref=e58]
+              - heading "Tools.merge-pdf.title" [level=3] [ref=e62]
+            - paragraph [ref=e63]: Tools.merge-pdf.desc
+        - link "Tools.split-pdf.title Tools.split-pdf.desc" [ref=e65] [cursor=pointer]:
+          - /url: /tr/split
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - img [ref=e68]
+              - heading "Tools.split-pdf.title" [level=3] [ref=e74]
+            - paragraph [ref=e75]: Tools.split-pdf.desc
+        - link "Tools.compress-pdf.title Tools.compress-pdf.desc" [ref=e77] [cursor=pointer]:
+          - /url: /tr/compress
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - img [ref=e80]
+              - heading "Tools.compress-pdf.title" [level=3] [ref=e85]
+            - paragraph [ref=e86]: Tools.compress-pdf.desc
+        - link "Tools.word-to-pdf.title Tools.word-to-pdf.desc" [ref=e88] [cursor=pointer]:
+          - /url: /tr/word-to-pdf
+          - generic [ref=e89]:
+            - generic [ref=e90]:
+              - img [ref=e91]
+              - heading "Tools.word-to-pdf.title" [level=3] [ref=e94]
+            - paragraph [ref=e95]: Tools.word-to-pdf.desc
+        - link "Tools.powerpoint-to-pdf.title Tools.powerpoint-to-pdf.desc" [ref=e97] [cursor=pointer]:
+          - /url: /tr/powerpoint-to-pdf
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - img [ref=e100]
+              - heading "Tools.powerpoint-to-pdf.title" [level=3] [ref=e103]
+            - paragraph [ref=e104]: Tools.powerpoint-to-pdf.desc
+        - link "Tools.excel-to-pdf.title Tools.excel-to-pdf.desc" [ref=e106] [cursor=pointer]:
+          - /url: /tr/excel-to-pdf
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - img [ref=e109]
+              - heading "Tools.excel-to-pdf.title" [level=3] [ref=e112]
+            - paragraph [ref=e113]: Tools.excel-to-pdf.desc
+        - link "Tools.edit-pdf.title Tools.edit-pdf.desc" [ref=e115] [cursor=pointer]:
+          - /url: /tr/edit-pdf
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - img [ref=e118]
+              - heading "Tools.edit-pdf.title" [level=3] [ref=e120]
+            - paragraph [ref=e121]: Tools.edit-pdf.desc
+        - link "Tools.pdf-to-jpg.title Tools.pdf-to-jpg.desc" [ref=e123] [cursor=pointer]:
+          - /url: /tr/pdf-to-jpg
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - img [ref=e126]
+              - heading "Tools.pdf-to-jpg.title" [level=3] [ref=e130]
+            - paragraph [ref=e131]: Tools.pdf-to-jpg.desc
+        - link "Tools.jpg-to-pdf.title Tools.jpg-to-pdf.desc" [ref=e133] [cursor=pointer]:
+          - /url: /tr/jpg-to-pdf
+          - generic [ref=e134]:
+            - generic [ref=e135]:
+              - img [ref=e136]
+              - heading "Tools.jpg-to-pdf.title" [level=3] [ref=e141]
+            - paragraph [ref=e142]: Tools.jpg-to-pdf.desc
+        - link "Tools.watermark.title Tools.watermark.desc" [ref=e144] [cursor=pointer]:
+          - /url: /tr/watermark
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - img [ref=e147]
+              - heading "Tools.watermark.title" [level=3] [ref=e150]
+            - paragraph [ref=e151]: Tools.watermark.desc
+        - link "Tools.rotate-pdf.title Tools.rotate-pdf.desc" [ref=e153] [cursor=pointer]:
+          - /url: /tr/rotate
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - img [ref=e156]
+              - heading "Tools.rotate-pdf.title" [level=3] [ref=e159]
+            - paragraph [ref=e160]: Tools.rotate-pdf.desc
+        - link "Tools.unlock-pdf.title Tools.unlock-pdf.desc" [ref=e162] [cursor=pointer]:
+          - /url: /tr/unlock
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - img [ref=e165]
+              - heading "Tools.unlock-pdf.title" [level=3] [ref=e168]
+            - paragraph [ref=e169]: Tools.unlock-pdf.desc
+        - link "Tools.protect-pdf.title Tools.protect-pdf.desc" [ref=e171] [cursor=pointer]:
+          - /url: /tr/protect
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - img [ref=e174]
+              - heading "Tools.protect-pdf.title" [level=3] [ref=e177]
+            - paragraph [ref=e178]: Tools.protect-pdf.desc
+        - link "Tools.organize-pdf.title Tools.organize-pdf.desc" [ref=e180] [cursor=pointer]:
+          - /url: /tr/delete
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - img [ref=e183]
+              - heading "Tools.organize-pdf.title" [level=3] [ref=e186]
+            - paragraph [ref=e187]: Tools.organize-pdf.desc
+        - link "Tools.page-number.title Tools.page-number.desc" [ref=e189] [cursor=pointer]:
+          - /url: /tr/page-number
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - img [ref=e192]
+              - heading "Tools.page-number.title" [level=3] [ref=e197]
+            - paragraph [ref=e198]: Tools.page-number.desc
+        - link "Tools.ocr-pdf.title Tools.ocr-pdf.desc" [ref=e200] [cursor=pointer]:
+          - /url: /tr/ocr
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - img [ref=e203]
+              - heading "Tools.ocr-pdf.title" [level=3] [ref=e208]
+            - paragraph [ref=e209]: Tools.ocr-pdf.desc
+        - link "Tools.html-to-pdf.title Tools.html-to-pdf.desc" [ref=e211] [cursor=pointer]:
+          - /url: /tr/html-to-pdf
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - img [ref=e214]
+              - heading "Tools.html-to-pdf.title" [level=3] [ref=e217]
+            - paragraph [ref=e218]: Tools.html-to-pdf.desc
+        - link "Tools.pdf-to-pdfa.title Tools.pdf-to-pdfa.desc" [ref=e220] [cursor=pointer]:
+          - /url: /tr/pdf-to-pdfa
+          - generic [ref=e221]:
+            - generic [ref=e222]:
+              - img [ref=e223]
+              - heading "Tools.pdf-to-pdfa.title" [level=3] [ref=e226]
+            - paragraph [ref=e227]: Tools.pdf-to-pdfa.desc
+        - link "Tools.repair-pdf.title Tools.repair-pdf.desc" [ref=e229] [cursor=pointer]:
+          - /url: /tr/repair
+          - generic [ref=e230]:
+            - generic [ref=e231]:
+              - img [ref=e232]
+              - heading "Tools.repair-pdf.title" [level=3] [ref=e234]
+            - paragraph [ref=e235]: Tools.repair-pdf.desc
+        - link "Tools.compare-pdf.title Tools.compare-pdf.desc" [ref=e237] [cursor=pointer]:
+          - /url: /tr/compare
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - img [ref=e240]
+              - heading "Tools.compare-pdf.title" [level=3] [ref=e245]
+            - paragraph [ref=e246]: Tools.compare-pdf.desc
+        - link "Tools.redact-pdf.title Tools.redact-pdf.desc" [ref=e248] [cursor=pointer]:
+          - /url: /tr/redact
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - img [ref=e251]
+              - heading "Tools.redact-pdf.title" [level=3] [ref=e254]
+            - paragraph [ref=e255]: Tools.redact-pdf.desc
+        - link "Tools.crop-pdf.title Tools.crop-pdf.desc" [ref=e257] [cursor=pointer]:
+          - /url: /tr/crop
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - img [ref=e260]
+              - heading "Tools.crop-pdf.title" [level=3] [ref=e263]
+            - paragraph [ref=e264]: Tools.crop-pdf.desc
+        - link "Tools.workflows.title Tools.workflows.desc" [ref=e266] [cursor=pointer]:
+          - /url: /tr/workflows
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - img [ref=e269]
+              - heading "Tools.workflows.title" [level=3] [ref=e273]
+            - paragraph [ref=e274]: Tools.workflows.desc
+  - contentinfo [ref=e275]:
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - generic [ref=e278]:
+          - text: PDF Master
+          - paragraph [ref=e279]: Common.footerDesc
+        - generic [ref=e280]:
+          - heading "Product" [level=3] [ref=e281]
+          - list [ref=e282]:
+            - listitem [ref=e283]:
+              - link "Merge PDF" [ref=e284] [cursor=pointer]:
+                - /url: /tr/merge
+            - listitem [ref=e285]:
+              - link "Split PDF" [ref=e286] [cursor=pointer]:
+                - /url: /tr/split
+            - listitem [ref=e287]:
+              - link "Compress PDF" [ref=e288] [cursor=pointer]:
+                - /url: /tr/compress
+            - listitem [ref=e289]:
+              - link "Convert PDF" [ref=e290] [cursor=pointer]:
+                - /url: /tr/convert
+        - generic [ref=e291]:
+          - heading "Company" [level=3] [ref=e292]
+          - list [ref=e293]:
+            - listitem [ref=e294]:
+              - link "About Us" [ref=e295] [cursor=pointer]:
+                - /url: /tr/about
+            - listitem [ref=e296]:
+              - link "Contact" [ref=e297] [cursor=pointer]:
+                - /url: /tr/contact
+            - listitem [ref=e298]:
+              - link "Privacy Policy" [ref=e299] [cursor=pointer]:
+                - /url: /tr/privacy
+            - listitem [ref=e300]:
+              - link "Terms of Service" [ref=e301] [cursor=pointer]:
+                - /url: /tr/terms
+        - generic [ref=e302]:
+          - heading "Connect" [level=3] [ref=e303]
+          - generic [ref=e304]:
+            - link "GitHub" [ref=e305] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e306]
+            - link "Twitter" [ref=e309] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e310]
+            - link "LinkedIn" [ref=e312] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e313]
+            - link "Facebook" [ref=e317] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e318]
+      - generic [ref=e320]:
+        - paragraph [ref=e321]: © 2025 PDF Master. All rights reserved.
+        - paragraph [ref=e323]: Built with Next.js & .NET Core
+  - generic [ref=e328] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e329]:
+      - img [ref=e330]
+    - generic [ref=e333]:
+      - button "Open issues overlay" [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e336]: "7"
+          - generic [ref=e337]: "8"
+        - generic [ref=e338]:
+          - text: Issue
+          - generic [ref=e339]: s
+      - button "Collapse issues badge" [ref=e340]:
+        - img [ref=e341]
+  - alert [ref=e343]
+```

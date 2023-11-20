@@ -1,0 +1,3 @@
+2025-11-25 14:48:06.346 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-11-25 14:48:07.504 +03:00 [INF] HTTP POST /api/Redact responded 200 in 1168.7063 ms
+2025-11-25 15:13:59.772 +03:00 [INF] HTTP POST /api/PdfToPdfA responded 200 in 117.0913 ms

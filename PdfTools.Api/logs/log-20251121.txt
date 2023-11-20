@@ -1,0 +1,6 @@
+2025-11-21 15:12:37.156 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-11-21 15:12:37.181 +03:00 [INF] HTTP GET /api responded 404 in 26.8973 ms
+2025-11-21 15:13:01.442 +03:00 [INF] HTTP GET /swagger/index.html responded 404 in 0.2463 ms
+2025-11-21 15:16:56.376 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-11-21 15:16:56.398 +03:00 [INF] HTTP GET /swagger/index.html responded 404 in 23.2577 ms
+2025-11-21 15:17:06.524 +03:00 [INF] HTTP GET /swagger/index.html responded 404 in 0.4674 ms
